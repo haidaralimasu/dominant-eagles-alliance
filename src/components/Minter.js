@@ -77,7 +77,7 @@ const Minter = () => {
         <h1 className="minter-h1">Mint Your Dominant Eagle</h1>
         {onlyWhitelisted ? (
           <div style={{ marginTop: 30, padding: 10 }}>
-            <h3 className="minter-h1">Public Sale On 19 FEB 4 PM UTC</h3>
+            <h3 className="minter-h1">Minting Starts On 19 FEB 4 PM UTC</h3>
           </div>
         ) : null}
 
